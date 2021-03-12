@@ -2,7 +2,7 @@
 
 ### you can see this project via the link:
 
-#### https://inspiring-bohr-57beda.netlify.app/
+#### https://reverent-lamport-e24c89.netlify.app/
 
 ### tech stack
 
