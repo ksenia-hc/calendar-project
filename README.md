@@ -12,7 +12,7 @@ Package management: NPM
 Toolchain:
 
 - Webpack 
-- | # of Learners | Cost per Course License |
+ | # of Learners | Cost per Course License |
 |:-------------:|:-----------------------:|
 |      1-5      |           $164          |
 |      6-30     |           $124          |
