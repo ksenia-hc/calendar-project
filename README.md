@@ -11,7 +11,7 @@ Package management: NPM
 
 Toolchain:
 
-- Webpack 
+ Webpack 
  | # of Learners | Cost per Course License |
 |:-------------:|:-----------------------:|
 |      1-5      |           $164          |
@@ -19,8 +19,8 @@ Toolchain:
 |     30-100    |           $84           |
 |    101-500    |           $64           |
 |      501+     |           $54           |
-- Babel
+ Babel
 
 Libs & frameworks:
 
-- React
+ React
